@@ -200,7 +200,7 @@ def construct_messages(file_content):
 
 
 
-def chat_with_gpt4(messages, temperature=0.3, top_p=0.6, model="cdit-genai-gpt4o"):  
+def chat_with_gpt4(messages, temperature=0.3, top_p=0.6, model="your-model-deployment-name"):  
 
     try:  
 
