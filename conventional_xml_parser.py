@@ -53,7 +53,7 @@ def extract_schema_from_xml(xml_file_path):
    return schema_json
  
 #-----------------------GPT 4o Function-------------------------------------------
-def chat_with_gpt4(messages, temperature=0.3, top_p=0.6, model="cdit-genai-gpt4o"):  
+def chat_with_gpt4(messages, temperature=0.3, top_p=0.6, model="your-model-deployment-name"):  
     try:  
         # Call the Azure OpenAI API for chat completion
         response = azure_openai.chat.completions.create(  
