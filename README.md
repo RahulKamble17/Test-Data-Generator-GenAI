@@ -12,4 +12,4 @@ This use case:
 
 ----------------File Details---------------
 xyz has and end-to-end POC ready to use for Snowflake SQL scripts
-xyz has a conventional parser built for XML/Informatic (ETL mappings)-----> Can be extended using similar methods given in snowflake POC
+"conventional_xml_parser.py" has a conventional parser built for XML/Informatic (ETL mappings)-----> Can be extended using similar methods given in snowflake POC
