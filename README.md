@@ -10,6 +10,7 @@ This use case:
 4. Connects with DB to create the schemas/ Insert data.
 5. Voila.... you can now test yout script!!!!
 
-----------------File Details---------------
-xyz has and end-to-end POC ready to use for Snowflake SQL scripts
-"conventional_xml_parser.py" has a conventional parser built for XML/Informatic (ETL mappings)-----> Can be extended using similar methods given in snowflake POC
+---------------------------------------File Details----------------------------------------
+
+1. "snowflake_testdata_gen.py" has and end-to-end POC ready to use for Snowflake SQL scripts
+2. "conventional_xml_parser.py" has a conventional parser built for XML/Informatic (ETL mappings)-----> Can be extended using similar methods given in snowflake POC
